@@ -1,4 +1,4 @@
-# Image-Acquisition-from-Web-Cameraa
+[# Image-Acquisition-from-Web-Cameraa
 ## Aim
 
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
@@ -31,8 +31,8 @@ End the program and close the output video window by pressing 'q'.
 <br>
 
 ## Program:
-#### Developed By: YOGESHVAR M
-#### Register No: 212222230180
+#### Developed By: TIRISHA.S
+#### Register No: 212222230160
 ```python
 # i) Write the frame as JPG file
 
@@ -108,7 +108,8 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 ![2](https://github.com/Yogeshvar005/Image_Acqusition-_using_Web_Camera/assets/113497367/b188bcef-3ff3-4135-947b-ea07117b2a79)                                 
-![1](https://github.com/Yogeshvar005/Image_Acqusition-_using_Web_Camera/assets/113497367/0859717e-60b6-4275-977b-8a30d7a8dceb)
+![image](https://github.com/Yogeshvar005/Image_Acqusition-_using_Web_Camera/assets/120380280/27a24144-4b49-4279-96f2-b9a2a2378b0f)
+
 
 </br>
 </br>
@@ -116,7 +117,8 @@ cv2.destroyAllWindows()
 
 ### ii) Display the video
 ![4](https://github.com/Yogeshvar005/Image_Acqusition-_using_Web_Camera/assets/113497367/739d3d28-d1bc-43eb-88c8-44f5a54e4495)      
-![3](https://github.com/Yogeshvar005/Image_Acqusition-_using_Web_Camera/assets/113497367/1c94ca79-b92a-44eb-a171-13d6e7f975a4)
+![image](https://github.com/Yogeshvar005/Image_Acqusition-_using_Web_Camera/assets/120380280/64a16dd8-fe0d-4eb7-b07b-0faeedb7368d)
+
 
 
 </br>
@@ -125,7 +127,8 @@ cv2.destroyAllWindows()
 
 ### iii) Display the video by resizing the window
 ![6](https://github.com/Yogeshvar005/Image_Acqusition-_using_Web_Camera/assets/113497367/e6219f79-5c75-4776-aad8-e41a336dfb3e)     
-![5](https://github.com/Yogeshvar005/Image_Acqusition-_using_Web_Camera/assets/113497367/9e370ec6-d502-4e04-9f92-e04ff83f6376)
+![image](https://github.com/Yogeshvar005/Image_Acqusition-_using_Web_Camera/assets/120380280/f9d6522b-ca0b-452c-b3a3-eddad4b7ecc2)
+
 
 </br>
 </br>
@@ -134,7 +137,7 @@ cv2.destroyAllWindows()
 
 ### iv) Rotate and display the video
 ![8](https://github.com/Yogeshvar005/Image_Acqusition-_using_Web_Camera/assets/113497367/faf660f3-a8fc-467e-9aad-d779963ade0e)    
-![7](https://github.com/Yogeshvar005/Image_Acqusition-_using_Web_Camera/assets/113497367/3817e7e0-6f75-40a0-94f4-bc15f779da90)
+![image](https://github.com/Yogeshvar005/Image_Acqusition-_using_Web_Camera/assets/120380280/78f66873-2b32-464b-9dd9-afc4f42fe381)
 
 
 </br>
@@ -143,3 +146,4 @@ cv2.destroyAllWindows()
 
 ## Result 
 Thus the image is accessed from webcamera and displayed using openCV.
+](https://github.com/Augustine0306/Image_Acqusition-_using_Web_Camera.git)https://github.com/Augustine0306/Image_Acqusition-_using_Web_Camera.git
